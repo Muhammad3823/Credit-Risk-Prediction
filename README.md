@@ -3,7 +3,11 @@ Predict whether a loan applicant will default or repay using a machine learning 
 
 **Approach**
 
-1.Data Cleaning – Handle missing values (median for numeric, mode for categorical) 2.EDA – Visualize key features (loan amount, income, education) 3.Encoding – Convert categorical data into numeric format 4.Modeling – Train Logistic Regression and Decision Tree 5.Evaluation – Compare models using accuracy and confusion matrices
+1.Data Cleaning – Handle missing values (median for numeric, mode for categorical) 
+2.EDA – Visualize key features (loan amount, income, education) 
+3.Encoding – Convert categorical data into numeric format 
+4.Modeling – Train Logistic Regression and Decision Tree 
+5.Evaluation – Compare models using accuracy and confusion matrices
 
 **Results & Insights**
 
