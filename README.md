@@ -1,4 +1,5 @@
 **Objective**
+
 Predict whether a loan applicant will default or repay using a machine learning model on the Loan Prediction dataset.
 
 **Approach**
