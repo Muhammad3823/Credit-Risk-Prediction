@@ -20,4 +20,4 @@ Predict whether a loan applicant will default or repay using a machine learning 
 
 2.Decision Tree: interpretable, captures complex patterns, may perform slightly better 
 
-3.Both models provide meaningful predictions and help assess loan risk
+3.Both models provide meaningful predictions and help assess loan risk.
